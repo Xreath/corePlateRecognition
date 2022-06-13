@@ -1,0 +1,8 @@
+env/
+yolov4_tiny/
+yolov4_tiny-416/
+video.mp4
+data/video/
+data/yolov4/
+.idea
+az_ocr/
